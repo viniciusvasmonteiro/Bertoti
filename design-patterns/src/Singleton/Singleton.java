@@ -1,22 +1,20 @@
 package Singleton;
 
-public final class Singleton {
-    private static Singleton instancia;
-    public String value;
+public class Singleton {
+    private static Singleton instanciaUnica;
 
-    private Singleton(String value){
-        try{
-            Thread.sleep(1000);
-        } catch(InterruptedException ex){
-            ex.printStackTrace();
-        }
-        this.value = value;
+    private Singleton() {
+        System.out.println("Instância do Singleton criada!");
     }
 
-    public static Singleton getInstancia(String value) {
-        if(instancia == null){
-            instancia = new Singleton(value);
+    public static Singleton getInstancia() {
+        if (instanciaUnica == null) {
+            instanciaUnica = new Singleton();
         }
-        return instancia;
+        return instanciaUnica;
+    }
+
+    public void mostrarMensagem() {
+        System.out.println("Padrão Singleton em ação!");
     }
 }
