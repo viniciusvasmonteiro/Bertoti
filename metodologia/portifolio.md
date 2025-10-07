@@ -43,6 +43,25 @@
 <p align="justify">
 Neste semestre, atuei como PO da equipe coderhood, ajudando no levantamento de requisitos e regras de negócio do projeto, qual era voltado para uma plataforma para auxiliar professores a organizar e controlar as notas (scores) dos alunos em sprints dos projetos. Também, pariticipei diretamente do desenvolvimento do projeto, atuando como desenvolvedor fullstack.</p>
 
+- Atuações como PO:
+  - Levantamento de requisitos.
+  - Gerenciamento de backlog.
+  - Definições de prioridades.
+
+- Desenvolvimento backend:
+  - Passar para código as regras de negócio levantadas junto do cliente e os requisitos não funcionais do projeto.
+  - Documentação do endpoints para facilitar a integração junto ao frontend;
+
+- Criação de lógica para salvar os registros:
+  - Não foi permitido o uso de linguagens de banco de dados;
+  - Desenvolvido lógica para criar, ler, atualizar e deletar os registros em um arquivo .json.
+
+- 
+
+- Desenvolvimento frontend:
+  - Construção do protótipo da interface através do figma e
+  - Passar para código as ideias desenhadas.
+
 ### Morpheus - 3º Semestre
 
 <p align="justify">No terceiro semestre, a empre GSW nos propôs um desafio: Desenvolver um sistema capaz de buscar noticias em portais e armazenar as informações encontradas de acordos com palavras chaves e seus sinonimos. 
