@@ -41,26 +41,12 @@
 #### Contribuições Pessoais
 
 <p align="justify">
-Neste semestre, atuei como PO da equipe coderhood, ajudando no levantamento de requisitos e regras de negócio do projeto, qual era voltado para uma plataforma para auxiliar professores a organizar e controlar as notas (scores) dos alunos em sprints dos projetos. Também, pariticipei diretamente do desenvolvimento do projeto, atuando como desenvolvedor fullstack.</p>
-
-- Atuações como PO:
-  - Levantamento de requisitos.
-  - Gerenciamento de backlog.
-  - Definições de prioridades.
-
-- Desenvolvimento backend:
-  - Passar para código as regras de negócio levantadas junto do cliente e os requisitos não funcionais do projeto.
-  - Documentação do endpoints para facilitar a integração junto ao frontend;
-
-- Criação de lógica para salvar os registros:
-  - Não foi permitido o uso de linguagens de banco de dados;
-  - Desenvolvido lógica para criar, ler, atualizar e deletar os registros em um arquivo .json.
+Neste semestre, atuei como PO da equipe coderhood, ajudando no levantamento de requisitos e regras de negócio do projeto, qual era voltado para uma plataforma para auxiliar professores a organizar e controlar as notas (scores) dos alunos em sprints dos projetos. Também, pariticipei diretamente do desenvolvimento do projeto, atuando como desenvolvedor fullstack. Utilizamos html, css e javascript puro no frontend e, no backend, python com o framework flask.
+<br>
+Um dos requisitos era não utilizar sistemas gerenciadores de bancos de dados para armazenar informação, então, utilizamos um arquivo json para fazer as persistência dos dados.
+</p>
 
 - 
-
-- Desenvolvimento frontend:
-  - Construção do protótipo da interface através do figma e
-  - Passar para código as ideias desenhadas.
 
 ### Morpheus - 3º Semestre
 
