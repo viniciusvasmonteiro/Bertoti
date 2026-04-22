@@ -18,6 +18,57 @@
 
 ##  <p align="center">Meus Projetos</p>
 
+## Projetos
+<details>
+  <summary><strong>📘 Primeiro Semestre (2023-2)</strong></summary>
+
+### Primeiro Semestre (2023-2)
+
+O desafio proposto foi desenvolver uma plataforma voltada para professores, com o entuito de facilitar a gestão de sprints, tratando os scores de grupos de alunos e dos alunos em si.
+
+[Acesso ao projeto no github](https://github.com/CoderHood-Fatec/ProjetoCoderHood)
+
+A solução desenvolvida pela minha equipe foi um sistema web, voltado para facilitar o controle de notas dos professores em questão. Com campos que possibilitam a criação de sprints e a inserção de scores para as referidas sprints.
+
+#### Tecnologias
+
+Frontend - HTML e CSS
+
+- Linguagens de marcação utilizadas no front-end para estruturação e estilização
+
+Backend - Python e Flask
+
+- Linguagem de programação e framework utilizados para estruturação do back-end, servidor e roteamento de páginas.
+
+Javascript
+
+- Linguagem de programação utilizada para funções no front-end como comportamentos assincronos e integração com o backend.
+
+#### Contribuições pessoais
+
+Neste semestre, atuei como PO da equipe coderhood, ajudando no levantamento de requisitos e regras de negócio do projeto. Também, pariticipei diretamente do desenvolvimento do projeto, atuando como desenvolvedor fullstack.
+Um dos requisitos era não utilizar sistemas gerenciadores de bancos de dados para armazenar informação, então, utilizamos um arquivo json para fazer as persistência dos dados.
+
+#### Hard Skills
+
+| Hard Skill | Nivel de Proficiência |
+| ---------- | --------------------- |
+| HTML       | Consigo ensinar       |
+| CSS        | Consigo ensinar       |
+| Python     | Consigo ensinar       |
+| Flask      | Uso com autonomia     |
+| JavaScript | Consigo ensinar       |
+| Git        | Consigo ensinar       |
+
+#### Soft Skills
+
+Durante o desenvolvimento, demonstrei boa comunicação, boa gestão levantando ideias e validando-as com o cliente e também, excelente habilidade com o grupo, onde pude passar meus conhecimentos para os demais. Tendo em vista que era o único do grupo com experiêcnia técnica neste semestre.
+
+</details>
+
+<details>
+  <summary><strong>📗 Segundo Semestre (2023-2) - Duck</strong></summary>
+
 ### Coderhood - 1º Semestre
 
 <p align="justify">No primeiro semestre, o desafio proposto foi desenvolver uma plataforma voltada para professores, com o entuito de facilitar a gestão de sprints, tratando os scores de grupos de alunos e dos alunos em si. 
@@ -46,7 +97,8 @@ Neste semestre, atuei como PO da equipe coderhood, ajudando no levantamento de r
 Um dos requisitos era não utilizar sistemas gerenciadores de bancos de dados para armazenar informação, então, utilizamos um arquivo json para fazer as persistência dos dados.
 </p>
 
-- 
+- Desenvolvimento frontend
+  - 
 
 ### Morpheus - 3º Semestre
 
